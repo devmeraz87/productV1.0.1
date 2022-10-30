@@ -1739,7 +1739,7 @@ input[type=number] {
 ._product_slider_container ._product_slider_header ._heading h1 {
   font-weight: 700;
   color: #333;
-
+  margin-bottom: 0;
 }
 ._product_slider_container ._product_slider_header ._see_more_link {
   display: flex;
@@ -1963,7 +1963,7 @@ input[type=number] {
   display: block;
   color: #000;
   font-weight: 700;
-  margin-bottom: 0.2rem;
+  margin-bottom: 0.6rem;
   text-decoration: none;
 }
 @media only screen and (max-width: 768px) {
@@ -1977,7 +1977,7 @@ input[type=number] {
 }
 ._product_slider_container ._swiper_container .swiper .swiper-wrapper .swiper-slide ._product ._product_content ._product_details ._product_batch_size {
   margin-bottom: 0.5rem;
-  font-size: 14px;
+  font-size: 12px;
 }
 ._product_slider_container ._swiper_container .swiper .swiper-wrapper .swiper-slide ._product ._product_content ._product_price {
   padding-top: 0.75rem;
